@@ -2,13 +2,13 @@
 ---
 
 **1. Nombre:**
-Edwin
+Jennifer Chavez
 
 **2. Hobbies:**
-Leer, ver series, dibujar, hacer ejercicio.
+Bicicleta, gym
 
 **3. Color favorito:**
-Negro
+Amarillo
 
 **4. Que te gusta mas del programa:**
-Que se participa en un proyecto real de impacto.
+Ser parte de un equipo.
